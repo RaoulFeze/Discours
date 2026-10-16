@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^Copy-Item -LiteralPath 'C:\\\\Users\\\\jraou\\\\AppData\\\\Roaming\\\\Code\\\\agentSessionData\\\\7e24b309-b140-48ec-905f-c979f67f052a\\\\attachments\\\\8c972880-485f-4117-9020-b4c8a346f73c\\\\Pasted Image\\.jpe' -Destination 'C:\\\\Users\\\\jraou\\\\\\.copilot\\\\session-state\\\\9f71c3e5-a46c-4ef5-ab4b-91630cd04610\\\\files\\\\server-screen\\.png'$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
